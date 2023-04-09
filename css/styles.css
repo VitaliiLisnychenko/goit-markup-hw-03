@@ -137,7 +137,9 @@ img {
   height: 56px;
   border: none;
   border-radius: 4px;
-  margin: auto;
+  margin-bottom: 48px;
+  margin-left: auto;
+  margin-right: auto;
 }
 .button-text {
   font-family: "Roboto", sans-serif;
