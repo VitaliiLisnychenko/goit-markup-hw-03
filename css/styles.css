@@ -21,7 +21,8 @@ h2,
 h3,
 h4,
 p {
-  margin: auto;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 img {
   display: block;
@@ -87,6 +88,7 @@ img {
 }
 .adress-list {
   font-style: normal;
+  margin-left: 332px;
 }
 .list-contacts {
   display: flex;
@@ -130,6 +132,8 @@ img {
   letter-spacing: 0.02em;
   color: #ffffff;
   max-width: 496px;
+  margin-left: auto;
+  margin-right: auto;
 }
 .button-orderservice {
   background-color: var(--iris);
@@ -141,6 +145,7 @@ img {
   border-radius: 4px;
   margin-left: auto;
   margin-right: auto;
+  margin-top: 48px;
 }
 .button-text {
   font-family: "Roboto", sans-serif;
